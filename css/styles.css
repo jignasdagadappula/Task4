@@ -1,0 +1,40 @@
+body{
+	background-color: powderblue;
+}
+main{
+
+  margin-top:2%;
+	margin-bottom:0.5%;
+	display: flex;
+	justify-content: space-around;
+}
+section{
+	background-color: #30C591;
+	margin:5%;
+}
+img{
+  height: 500px;
+  width: 1600px ;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 0.1%;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+#image2{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  top:600px;
+
+}
+#image4{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  right: 10px;
+  top: 600px;
+
+}

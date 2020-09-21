@@ -1,0 +1,54 @@
+body{
+	background-color: powderblue;
+
+}
+main{
+
+  margin-top:2%;
+	margin-bottom:0.5%;
+	justify-content: space-around;
+}
+
+img{
+  height: 500px;
+  width: 1000px ;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 0.1%;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+#image{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  top: 1px;
+
+}
+#image2{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  top:600px;
+
+
+}
+#image3{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  right: 10px;
+  top:1px;
+
+}
+#image4{
+  height: 10%;
+  width: 5%;
+  position: absolute;
+  right: 10px;
+  top: 600px;
+
+
+}
